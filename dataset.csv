@@ -1,0 +1,16 @@
+walking_speed,phone_usage,head_angle,traffic_density,risk
+slow,yes,high,high,dangerous
+slow,yes,high,medium,dangerous
+slow,no,medium,high,dangerous
+fast,yes,high,high,dangerous
+fast,no,low,low,safe
+medium,no,low,medium,safe
+medium,yes,medium,high,dangerous
+slow,no,low,low,safe
+fast,no,medium,medium,safe
+medium,yes,high,high,dangerous
+slow,yes,medium,medium,dangerous
+fast,no,low,medium,safe
+medium,no,medium,low,safe
+slow,no,high,high,dangerous
+fast,yes,medium,high,dangerous
