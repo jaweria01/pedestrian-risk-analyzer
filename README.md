@@ -23,6 +23,10 @@ Pedestrian safety is increasingly affected by mobile distraction. This project e
 py -3.11 -m streamlit run app.py
 ```
 ## Live Demo
+
+Here you caan try it out:
+https://pedestrian-risk-analyzer-xh.streamlit.app/
+
 <img width="599" height="520" alt="image" src="https://github.com/user-attachments/assets/4e17655c-f4cb-4e59-9e57-db8ed733fb6c" />
 
 
